@@ -4,6 +4,4 @@ resources:
 - ui-deployment.yaml
 - ui-service.yaml
 - ui-route.yaml
-- db-secret.yaml
 - db-deployment.yaml
-- db-service.yaml
