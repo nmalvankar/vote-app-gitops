@@ -8,3 +8,4 @@ resources:
 - ui-deployment.yaml
 - ui-service.yaml
 - ui-route.yaml
+- db-pvc.yaml
