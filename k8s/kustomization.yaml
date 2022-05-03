@@ -1,4 +1,8 @@
 resources:
+- db-pvc.yaml
+- db-secret.yaml
+- db-service.yaml
+- db-deployment.yaml
 - api-deployment.yaml
 - api-service.yaml
 - ui-deployment.yaml
