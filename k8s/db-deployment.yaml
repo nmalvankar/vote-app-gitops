@@ -44,9 +44,9 @@ spec:
         resources: {}
         terminationMessagePath: /dev/termination-log
         terminationMessagePolicy: File
-        volumeMounts:
-        - mountPath: /var/opt/mssql
-          name: mssql-data
+#        volumeMounts:
+#        - mountPath: /var/opt/mssql
+#          name: mssql-data
       dnsPolicy: ClusterFirst
       restartPolicy: Always
       schedulerName: default-scheduler
