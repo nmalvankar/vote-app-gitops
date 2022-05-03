@@ -52,8 +52,8 @@ spec:
       schedulerName: default-scheduler
       securityContext: {}
       terminationGracePeriodSeconds: 30
-      volumes:
-      - name: mssql-data
-        persistentVolumeClaim:
-          claimName: mssql-pvc
+#      volumes:
+#      - name: mssql-data
+#        persistentVolumeClaim:
+#          claimName: mssql-pvc
   test: false
