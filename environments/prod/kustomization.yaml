@@ -4,7 +4,7 @@ resources:
   - ../../k8s/
 replicas:
 - name: vote-ui
-  count: 2
+  count: 1
 patches:
 - patch: |-
     - op: add
