@@ -12,6 +12,6 @@ images:
 - digest: sha256:aa0b74e6e3848f9d403bd5685cb1d5764dc9b17c00347ee5a853a81cc9c871a2
   name: quay.io/nmalvankar/vote-api
   newName: quay.io/nmalvankar/vote-api
-- digest: sha256:44f149740e1da710110910925b1b2e1608b8e1d88ff6be8e33b94cb9329efc31
+- digest: sha256:9f5bd04f6d6410795d5f3a87f06c454e86df380ae5fdd78ed7624dbc45d4fff3
   name: quay.io/nmalvankar/vote-ui
   newName: quay.io/nmalvankar/vote-ui
